@@ -1,0 +1,10 @@
+ID: RM0292
+Category: Sodium_perchlorate_monohydrate
+Manufacturer: SigmaAldrich
+Type: 310514-100G
+Amount: ~100g
+Location: moving_box
+Dated: unknown
+Inventoried: 180717
+LastUpdate: 180717
+Notes:Lot_BCBW6525, monohydrate, >98%
