@@ -1,6 +1,6 @@
 # FIPT: Fast impedance tortuosity 
 
-FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind ([DOI: 10.1149/issn.1945-7111](https://dx.doi.org/10.1149/2.1141607jes)) and then optimized for execution speed and reliability at Battrion.
+FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind ([DOI: 10.1149/issn.1945-7111](https://dx.doi.org/10.1149/2.1141607jes)) and then optimized for execution speed and reliability at [Battrion](https://battrion.com).
 
 This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
 
