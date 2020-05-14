@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ===================================
-``FIPT``: Fast impedance tortuosity
+FIPT: Fast impedance tortuosity
 ===================================
 
 A fast way to get ionic resistance

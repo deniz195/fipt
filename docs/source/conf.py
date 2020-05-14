@@ -21,6 +21,8 @@ project = 'fipt'
 copyright = '2020, Deniz Bozyigit, Battrion AG'
 author = 'Deniz Bozyigit'
 
+master_doc = 'index'
+
 
 # -- General configuration ---------------------------------------------------
 
