@@ -18,7 +18,6 @@ A fast way to get ionic resistance
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
    assembly
    materials
