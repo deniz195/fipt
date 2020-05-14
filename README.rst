@@ -1,9 +1,12 @@
-========================================================================
-``FIPT``: Fast impedance tortuosity - A fast way to get ionic resistance
-========================================================================
+===================================
+``FIPT``: Fast impedance tortuosity
+===================================
+
+A fast way to get ionic resistance
+==================================
 
 .. intro-begin
-FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind ([DOI: 10.1149/issn.1945-7111](https://dx.doi.org/10.1149/2.1141607jes)) and then optimized for execution speed and reliability at [Battrion](https://battrion.com).
+FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind (`DOI: 10.1149/issn.1945-7111 <https://dx.doi.org/10.1149/2.1141607jes>`_) and then optimized for execution speed and reliability at `Battrion <https://battrion.com>`_.
 
 This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
 .. intro-end
@@ -41,18 +44,18 @@ In about 2-10min your measurement should be done.
 I got the data. What now?
 =========================
 
-Data analysis code is available at [https://github.com/deniz195/fipt-analysis](https://github.com/deniz195/fipt-analysis)
+Data analysis code is available at `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-For questions please feel free to reach out to Deniz Bozyigit ([dbozyigit@battrion.com](mailto:dbozyigit@battrion.com))
+For questions please feel free to reach out to Deniz Bozyigit (`dbozyigit@battrion.com <mailto:dbozyigit@battrion.com>`_)
 
 License
 =======
-`[GPL v3.0]`<https://choosealicense.com/licenses/gpl-3.0/>
+`GPL v3.0 <https://choosealicense.com/licenses/gpl-3.0/>`_
 
 
 
