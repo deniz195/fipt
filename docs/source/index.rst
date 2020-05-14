@@ -14,16 +14,15 @@ A fast way to get ionic resistance
    :start-after: intro-begin
    :end-before: intro-end
 
+
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-
-
-
-
-.. include:: sop.rst
-
+   assembly
+   materials
+   sop
 
 
 

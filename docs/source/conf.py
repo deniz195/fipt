@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'fipt'
-copyright = '2020, Deniz Bozyigit'
+copyright = '2020, Deniz Bozyigit, Battrion AG'
 author = 'Deniz Bozyigit'
 
 
