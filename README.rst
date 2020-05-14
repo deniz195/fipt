@@ -21,6 +21,7 @@ What do I need?
 ===============
 
 These are the things that you need to build your setup
+
 - A 3D printer
 - Couple of screws
 - Kapton tape and 3mm foam.
@@ -28,12 +29,14 @@ These are the things that you need to build your setup
 Use the files in the `cad` folder and follow the assembly instructions.
 
 Once you have the setup assembled, prepare the electrolyte. This needs:
+
 - A salt (e.g. NaClO4)
 - A solvent (e.g. EC:DMC)
 
 The recipe for a useful electrolyte mixture is given in the `electrolyte` folder.
 
 Finally, get your electrode, print out the SOP from the `sop` folder and get your first measurement. For this you need:
+
 - An impendance analyzer
 - Separator material
 - A 200ul or 1ml pipette
@@ -46,7 +49,9 @@ I got the data. What now?
 
 Data analysis code is available at `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_
 
-## Contributing
+Contributing
+============
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
