@@ -1,2 +1,3 @@
 OldVersions
 .ipynb_checkpoints
+*.gcode
