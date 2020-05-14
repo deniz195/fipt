@@ -1,6 +1,11 @@
+
 ===================================
 ``FIPT``: Fast impedance tortuosity
 ===================================
+
+.. image:: https://readthedocs.org/projects/fipt/badge/?version=latest
+:target: https://fipt.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 A fast way to get ionic resistance
 ==================================
