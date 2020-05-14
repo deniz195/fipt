@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>fipt documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="fipt-fast-impedance-tortuosity">
+<h1><code class="docutils literal notranslate"><span class="pre">FIPT</span></code>: Fast impedance tortuosity<a class="headerlink" href="#fipt-fast-impedance-tortuosity" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="a-fast-way-to-get-ionic-resistance">
+<h2>A fast way to get ionic resistance<a class="headerlink" href="#a-fast-way-to-get-ionic-resistance" title="Permalink to this headline">¶</a></h2>
+<p>FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind (<a class="reference external" href="https://dx.doi.org/10.1149/2.1141607jes">DOI: 10.1149/issn.1945-7111</a>) and then optimized for execution speed and reliability at <a class="reference external" href="https://battrion.com">Battrion</a>.</p>
+<p>This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
+..</p>
+<div class="toctree-wrapper compound">
+</div>
+</div>
+<div class="section" id="standard-operating-procedure-sop">
+<h2>Standard Operating Procedure (SOP)<a class="headerlink" href="#standard-operating-procedure-sop" title="Permalink to this headline">¶</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>When handling electrolyte always wear goggles</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Use generic 250um glass fiber separator</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>In total 3 measurements for the A side and 3 measurements for the B side are carried out</p>
+</div>
+<div class="section" id="prepare-workstation">
+<h3>Prepare workstation<a class="headerlink" href="#prepare-workstation" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Wear gloves and goggles</p></li>
+<li><p>Get napkins, electrodes, sample holders, trash beaker, pipette, pipette tips, drill</p></li>
+<li><p>Remove dust from the sample holders with compressed air</p></li>
+<li><p>Check holders are functional (screws grip in the plastic)</p></li>
+<li><p>Clean FIPT workstation with isopropanol</p></li>
+</ul>
+<p><a class="reference internal" href="_images/fipt_workstation_01.jpg"><img alt="fipt workstation image 01" src="_images/fipt_workstation_01.jpg" style="width: 45%;" /></a> <a class="reference internal" href="_images/fipt_workstation_02.jpg"><img alt="fipt workstation image 02" src="_images/fipt_workstation_02.jpg" style="width: 45%;" /></a></p>
+</div>
+<div class="section" id="prepare">
+<h3>Prepare<a class="headerlink" href="#prepare" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Check age of electrolyte</p></li>
+<li><p><em>Check drill clutch setting is 7</em></p></li>
+<li><p>Get coated sample to the FIPT workstation</p></li>
+</ul>
+</div>
+<div class="section" id="prepare-separators">
+<h3>Prepare separators<a class="headerlink" href="#prepare-separators" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Cut the circular separator material (up to 3 at a time) with the triangle ruler and yellow cutting tool into <strong>21mm wide</strong> stripes (see picture)</p></li>
+<li><p>Cut the stripes into smaller stripes (21mm × 35mm)</p></li>
+<li><p>Check stripes for dirt → throw away dirty stripes</p></li>
+</ul>
+<p><a class="reference internal" href="_images/fipt_cut_separator.jpg"><img alt="cut separator" src="_images/fipt_cut_separator.jpg" style="width: 45%;" /></a></p>
+</div>
+<div class="section" id="prepare-samples">
+<h3>Prepare samples<a class="headerlink" href="#prepare-samples" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Cut the coated sample in the middle with the yellow cutting tool (see picture)</p></li>
+<li><p>Cut out 2 electrode stripes (<strong>20mm wide</strong>)from the coated sample with the black cutting tool</p></li>
+</ul>
+<p><a class="reference internal" href="_images/fipt_cut_sample.jpg"><img alt="cut sample" src="_images/fipt_cut_sample.jpg" style="width: 45%;" /></a></p>
+</div>
+<div class="section" id="assemble-fipt-cell">
+<h3>Assemble FIPT cell<a class="headerlink" href="#assemble-fipt-cell" title="Permalink to this headline">¶</a></h3>
+<p>Procedure:</p>
+<ul class="simple">
+<li><p>Place first electrode stripe into the sample holder with <strong>A side up</strong> (see Fig. ref{fig:FIPT_05})</p></li>
+<li><p>Place separator on top of the first stripe (see Fig. ref{fig:FIPT_06})</p></li>
+<li><p>Drop 300 microliter electrolyte on the separator with the microliter pipette (see Fig. ref{fig:FIPT_09})</p></li>
+<li><p>Place second electrode stripe on top of the separator with <strong>A side down</strong></p></li>
+<li><p>Place plastic cross on top of the second electrode stripe (one corner is round, see Fig. ref{fig:FIPT_07})</p></li>
+<li><p>Hook in plastic bar, tighten screws in the two corners until thei’re flush with the bottom (see Fig. ref{fig:FIPT_08})</p></li>
+<li><p>Screw in the middle screw until the clutch of the drill triggers</p></li>
+<li><p>Attach measurement wires to the sample (see Fig. ref{fig:FIPT10})</p></li>
+</ul>
+<a class="reference internal image-reference" href="_images/fipt_put_1stripe.jpg"><img alt="_images/fipt_put_1stripe.jpg" src="_images/fipt_put_1stripe.jpg" style="width: 40%;" /></a>
+<a class="reference internal image-reference" href="_images/fipt_put_separator.jpg"><img alt="_images/fipt_put_separator.jpg" src="_images/fipt_put_separator.jpg" style="width: 40%;" /></a>
+<a class="reference internal image-reference" href="_images/fipt_put_elyte.jpg"><img alt="_images/fipt_put_elyte.jpg" src="_images/fipt_put_elyte.jpg" style="width: 40%;" /></a>
+<a class="reference internal image-reference" href="_images/fipt_put_top.jpg"><img alt="_images/fipt_put_top.jpg" src="_images/fipt_put_top.jpg" style="width: 40%;" /></a>
+<a class="reference internal image-reference" href="_images/fipt_put_clamp.jpg"><img alt="_images/fipt_put_clamp.jpg" src="_images/fipt_put_clamp.jpg" style="width: 40%;" /></a>
+<a class="reference internal image-reference" href="_images/fipt_put_wires.jpg"><img alt="_images/fipt_put_wires.jpg" src="_images/fipt_put_wires.jpg" style="width: 40%;" /></a>
+</div>
+<div class="section" id="carry-out-fipt-measurement">
+<h3>Carry out FIPT measurement<a class="headerlink" href="#carry-out-fipt-measurement" title="Permalink to this headline">¶</a></h3>
+<p>Procedure:</p>
+<ul class="simple">
+<li><p>Perform impedance measurement between 1Hz - 50kHz</p></li>
+<li><p>Analyze data according to Landesfeind2016 (See literature folder)</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="indices-and-tables">
+<h2>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="genindex.html"><span class="std std-ref">Index</span></a></p></li>
+<li><p><a class="reference internal" href="py-modindex.html"><span class="std std-ref">Module Index</span></a></p></li>
+<li><p><a class="reference internal" href="search.html"><span class="std std-ref">Search Page</span></a></p></li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="#">fipt</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, Deniz Bozyigit.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.0.3</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+    </div>
+
+    
+
+    
+  </body>
+</html>
