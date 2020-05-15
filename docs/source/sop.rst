@@ -31,7 +31,7 @@ Prepare tools
 -------------
 
 - Check age of electrolyte
-- Check drill clutch setting is 7 (or on a setting that produces 0.4Nm)
+- Check drill clutch setting produces 0.4Nm
 - Get coated sample to the FIPT workstation
 
 

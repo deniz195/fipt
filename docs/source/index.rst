@@ -15,6 +15,18 @@ A fast way to get ionic resistance
    :end-before: intro-end
 
 
+Why?
+====
+
+.. include:: ../../README.rst
+   :start-after: why-begin
+   :end-before: why-end
+
+
+I'm sold. What do I need?
+=========================
+
+Here are the three main steps:
 
 .. toctree::
    :maxdepth: 1
@@ -24,10 +36,22 @@ A fast way to get ionic resistance
    sop
 
 
+I got the data. What now?
+=========================
+
+Data analysis code is available at `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_
+
+
+Contribute
+============
+
+.. include:: ../../README.rst
+   :start-after: contrib-begin
+   :end-before: contrib-end
+
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

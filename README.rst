@@ -16,37 +16,27 @@ FIPT is a measurement technique that allows a fast determination of the ionic re
 This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
 .. intro-end
 
+
 Why?
 ===============
+
+.. why-begin
 The ionic resistance (or the MacMullin number) is a key performance metric for any battery electrode. It describes how easily ions can move through the electrode during fast charging or heavy use of the battery. It is therefore important for all manufacturers to optimize the ionic resistance of their electrodes.
 
 Battrions Aligned Graphite Technology is a powerful way to reduce the ionic resistance by up to 50% through aligning graphite particles in an electrode.
+.. why-end
 
-What do I need?
-===============
 
-These are the things that you need to build your setup
+I'm sold. What do I need?
+=========================
 
-- A 3D printer
-- Couple of screws
-- Kapton tape and 3mm foam.
+Here are the three main steps:
 
-Use the files in the `cad` folder and follow the assembly instructions.
+-	`Build your FIPT cell <https://fipt.readthedocs.io/en/latest/assembly.html>`_
+-	`Get the materials <https://fipt.readthedocs.io/en/latest/materials.html>`_
+-	`Measure ionic resistance (aka SOP) <https://fipt.readthedocs.io/en/latest/sop.html>`_
 
-Once you have the setup assembled, prepare the electrolyte. This needs:
-
-- A salt (e.g. NaClO4)
-- A solvent (e.g. EC:DMC)
-
-The recipe for a useful electrolyte mixture is given in the `electrolyte` folder.
-
-Finally, get your electrode, print out the SOP from the `sop` folder and get your first measurement. For this you need:
-
-- An impendance analyzer
-- Separator material
-- A 200ul or 1ml pipette
-
-In about 2-10min your measurement should be done.
+You find more details in the `full documentation <https://readthedocs.org/projects/fipt/badge/?version=latest>`_
 
 
 I got the data. What now?
@@ -54,14 +44,20 @@ I got the data. What now?
 
 Data analysis code is available at `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_
 
-Contributing
-============
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contribute
+==========
 
-Please make sure to update tests as appropriate.
+.. contrib-begin
+You can find all source files here: `<https://github.com/deniz195/fipt>`_
+
+Pull requests are welcome. 
+
+.. For major changes, please open an issue first to discuss what you would like to change.
+.. Please make sure to update tests as appropriate.
 
 For questions please feel free to reach out to Deniz Bozyigit (`dbozyigit@battrion.com <mailto:dbozyigit@battrion.com>`_)
+.. contrib-end
 
 License
 =======

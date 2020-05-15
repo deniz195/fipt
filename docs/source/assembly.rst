@@ -4,13 +4,17 @@ Build your FIPT cell
 Get necessary items
 -------------------
 
+3D-printed parts:
+
+-	``base``: `071_0100_Base.stl <https://github.com/deniz195/fipt/blob/master/cad/fipt_cell/071_0100_Base.stl>`_
+-	``top``: `071_0101_Top.stl  <https://github.com/deniz195/fipt/blob/master/cad/fipt_cell/071_0101_Top.stl>`_
+- 	``clamp``: `071_0102_Clamp.stl <https://github.com/deniz195/fipt/blob/master/cad/fipt_cell/071_0102_Clamp.stl>`_
+
+Print settings: Typically PLA, 250um layer height, 500um nozzle diameter. Note that the models need 90deg turn for printing
+
+Other parts:
+
 -   3x M5x40mm hex socket bolts
--   3D-printed parts: (Typically: PLA, 250um layer height, 500um nozzle diameter) 
-
-    - 071_0100_Base.stl (``base``)
-    - 071_0101_Top.stl  (``top``)
-    - 071_0102_Clamp.stl  (``clamp``)
-
 -   20mm wide Kapton tape
 -   >= 20mm wide double sided tape
 -   2-3mm thick EVA foam rubber sheet (from arts and crafts store)
@@ -20,6 +24,7 @@ Assemble
 --------
 
 1.  Add foam to ``base`` and ``top`` in the pictures below. The foam parts consists of 3 layers: 
+
     -   Double sided tape
     -   Foam sheet
     -   Kapton tape 
