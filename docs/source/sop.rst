@@ -1,4 +1,5 @@
-STANDARD OPERATION PROCEDURE
+**STANDARD OPERATION PROCEDURE**
+
 Measure the ionic resistance of your electrode with the FIPT kit
 ==================================
 
