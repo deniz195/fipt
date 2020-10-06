@@ -1,19 +1,22 @@
-Measure ionic resistance (aka SOP)
+Standard operation procedure
+Measure the ionic resistance of your electrode with the FIPT kit
 ==================================
 
 .. include:: <isonum.txt>
 .. See https://docutils.sourceforge.io/docs/ref/rst/definitions.html
 
-.. warning:: When handling electrolyte always wear goggles
+.. warning:: The orientation marking on the FIPT cell have to be placed on the top left side
 
-Prepare workstation  
+1.	Clean the workstation 
 -------------------
+Checklist : Gloves, googles, ethanol, wipe, FIPT cell ( composed by the support, the base, the top and the clamp), brush, tweezer, cutting tool, pipette, pipette tips and your electrode.
 
 - Wear gloves and goggles
-- Get napkins, electrodes, sample holders, trash beaker, pipette, pipette tips, drill
-- Remove dust from the sample holders with compressed air
-- Check holders are functional (screws grip in the plastic)
-- Clean FIPT workstation with isopropanol
+-	Clean the workstation with ethanol
+-	Clean the pipette, the tweezer with dry wipe 
+-	Set the pipette to 300ul and place the pipette tip
+-	Clean all parts of the FIPT cell with the brush to remove any contamination of past measurement 
+-	Clean the cutting tool with the brush, be careful of the blades.
 
 
 .. |fipt workstation 01| image:: images/fipt_workstation_01.jpg
@@ -27,91 +30,119 @@ Prepare workstation
 |fipt workstation 01| |fipt workstation 02|
 
 
-Prepare tools 
+2.	Prepare the workstation
 -------------
+Checklist : Ethanol, wipe, FIPT cell and your electrode.
 
+- Clean the label on the cell wih ethanol
+- Write the new label of the electrode and precise the side that you want to measure.
+
+.. |cut separator| image:: images/fipt_cut_separator.jpg
+    :width: 45%
+    :alt: cut separator
+    
 - Check age of electrolyte
 - Check drill clutch setting produces 0.4Nm
-- Get coated sample to the FIPT workstation
 
 
-Prepare separators
+3.	Cut the electrode 
 -------------------
+Checklist : Cutting tool, tweezer and your electrode labeled.
+
+- Place the electrode on the cutting tool
+- Press the blades down to cut out the electrode strip
+- Collect the electrode strip with the tweezer
+- Check the edges of the strip are clean after cutting
+- Pay attention to face the side that you will measure up
+- Repeat the cutting for two strips total
+
 
 .. |cut separator| image:: images/fipt_cut_separator.jpg
     :width: 45%
     :alt: cut separator
 
-- Cut the circular separator material (up to 3 at a time) with the triangle ruler and yellow cutting tool into **21mm wide** stripes (see picture)
-- Cut the stripes into smaller stripes (21mm |times| 35mm)
-- Check stripes for dirt |rarr| throw away dirty stripes 
-
-|cut separator| 
-
-Prepare samples
+4.	Assemble the FIPT cell
 ---------------
+Checklist : FIPT cell ( composed by the support, the base, the top and the clamp), tweezer, pipette, separator, electrolyte and 2 strips of electrode.
+
+- Place the first strip orthogonal to the foam of the FIPT cell. Face up the side that you measure. 
+Be careful on the orientation of the FIPT cell. 
+-  Place one separator on the middle of the electrode strip in the FIPT cell gap. 
+
 
 .. |cut sample| image:: images/fipt_cut_sample.jpg
     :width: 45%
     :alt: cut sample
 
-- Cut the coated sample in the middle with the yellow cutting tool (see picture)
-- Cut out 2 electrode stripes (**20mm wide**)from the coated sample with the black cutting tool
-
-|cut sample|  
+Be careful to put only one separator and to place it correctly in the relevant region. 
+- Apply 300ul of electrolyte on the separator
 
 
-Load electrode in FIPT cell
+.. |cut sample| image:: images/fipt_cut_sample.jpg
+    :width: 45%
+    :alt: cut sample
+   
+-	Place the second strip on the top of the separator, orthogonal to the first strip. Face down the side that you measure.
+
+.. |cut sample| image:: images/fipt_cut_sample.jpg
+    :width: 45%
+    :alt: cut sample
+ 
+- Close the cell by adding the top
+    
+.. |cut sample| image:: images/fipt_cut_sample.jpg
+    :width: 45%
+    :alt: cut sample
+ 
+- Check that the orientation markers are aligned
+- Hook in plastic bar.
+-	Screw in the middle screw until the clutch of the drill triggers (Torque 0.4Nm).
+
+ 
+
+5.	Run the measurement 
 ---------------------------
 
-Place **first electrode** stripe into the sample holder with **A side up**
+Checklist : FIPT cell ( composed by the support, the base, the top and the clamp), tweezer, pipette, separator, electrolyte and 2 strips of electrode.
 
-.. image:: images/fipt_put_1stripe.jpg
-    :width: 40%
+- Attach 2 measurement wires to the strips of the electrode to connect the FIPT cell to an impedance analyzer
 
-
-Place **separator** on top of the first stripe
-
-.. image:: images/fipt_put_separator.jpg
-    :width: 40%
-
-
-Drop **300 microliter electrolyte** on the separator with a pipette
 
 .. image:: images/fipt_put_elyte.jpg
     :width: 40%
 
 
-Place **second electrode** stripe on top of the separator with **A side down**
+-	Set up the measurement
 
 .. image:: images/fipt_put_top.jpg
     :width: 40%
 
-- Place **plastic cross on top** of the second electrode stripe (one corner is round). 
-- Hook in plastic bar.
-- Screw in the middle **screw until the clutch** of the drill triggers (Torque 0.4Nm).
+- Carry out the FIPT measurement and determine the ionic resistance of your electrode
+- Note that a good graph looks like a hockey stick .
+
 
 .. image:: images/fipt_put_clamp.jpg
     :width: 40%
 
-Attach **measurement wires** to the sample
+- Carry out the FIPT measurement and determine the ionic resistance of your electrode
+- Note that a good graph looks like a hockey stick .
 
-.. image:: images/fipt_put_wires.jpg
+.. image:: images/fipt_put_clamp.jpg
     :width: 40%
 
 
-Carry out FIPT measurement
+6.	Analyze your data
 --------------------------
 
-- Perform impedance measurement between 1Hz - 50kHz
-- Analyze data using `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_
+-To see how to analyze your FIPT data using our `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_ , watch our follow up video
 
-A typical data set looks like this:
 
 .. image:: images/fipt_test_data_003.csv.fit.plot.png
     :width: 100%
 
 .. note:: To achieve reliable data, do a total of 3 measurements per sample
+
+VIDEO
 
 
 
