@@ -19,14 +19,10 @@ Checklist : Gloves, googles, ethanol, wipe, FIPT cell ( composed by the support,
 -	Clean the cutting tool with the brush, be careful of the blades.
 
 
-.. image:: https://github.com/SarahBayach/fipt/blob/master/1.png
+.. image:: 1.png
   :width: 45%
+  :alt: 1.png
 
-.. |fipt workstation 02| image:: images/fipt_workstation_02.jpg
-  :width: 45%
-  :alt: fipt workstation image 02
-
-|fipt workstation 01| |fipt workstation 02|
 
 
 2.	**Prepare the workstation**
@@ -36,9 +32,9 @@ Checklist : Ethanol, wipe, FIPT cell and your electrode.
 - Clean the label on the cell wih ethanol
 - Write the new label of the electrode and precise the side that you want to measure.
 
-.. |cut separator| image:: images/fipt_cut_separator.jpg
+.. |cut separator| image:: https://github.com/SarahBayach/fipt/blob/master/2.png
     :width: 45%
-    :alt: cut separator
+   
     
 - Check age of electrolyte
 - Check drill clutch setting produces 0.4Nm
@@ -56,9 +52,9 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
 - Repeat the cutting for two strips total
 
 
-.. |cut separator| image:: images/fipt_cut_separator.jpg
+.. |cut separator| image:: https://github.com/SarahBayach/fipt/blob/master/3.png
     :width: 45%
-    :alt: cut separator
+  
 
 4.	**Assemble the FIPT cell**
 ---------------
@@ -69,29 +65,29 @@ Be careful on the orientation of the FIPT cell.
 -  Place one separator on the middle of the electrode strip in the FIPT cell gap. 
 
 
-.. |cut sample| image:: images/fipt_cut_sample.jpg
+.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/4.png
     :width: 45%
-    :alt: cut sample
+    
 
 Be careful to put only one separator and to place it correctly in the relevant region. 
 - Apply 300ul of electrolyte on the separator
 
 
-.. |cut sample| image:: images/fipt_cut_sample.jpg
+.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/5.png
     :width: 45%
-    :alt: cut sample
+    
    
 -	Place the second strip on the top of the separator, orthogonal to the first strip. Face down the side that you measure.
 
-.. |cut sample| image:: images/fipt_cut_sample.jpg
+.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/6.png
     :width: 45%
-    :alt: cut sample
+    
  
 - Close the cell by adding the top
     
-.. |cut sample| image:: images/fipt_cut_sample.jpg
+.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/7.png
     :width: 45%
-    :alt: cut sample
+    
  
 - Check that the orientation markers are aligned
 - Hook in plastic bar.
@@ -107,26 +103,26 @@ Checklist : FIPT cell ( composed by the support, the base, the top and the clamp
 - Attach 2 measurement wires to the strips of the electrode to connect the FIPT cell to an impedance analyzer
 
 
-.. image:: images/fipt_put_elyte.jpg
+.. image:: https://github.com/SarahBayach/fipt/blob/master/9.png
     :width: 40%
 
 
 -	Set up the measurement
 
-.. image:: images/fipt_put_top.jpg
+.. image:: https://github.com/SarahBayach/fipt/blob/master/10.png
     :width: 40%
 
 - Carry out the FIPT measurement and determine the ionic resistance of your electrode
 - Note that a good graph looks like a hockey stick .
 
 
-.. image:: images/fipt_put_clamp.jpg
+.. image:: https://github.com/SarahBayach/fipt/blob/master/11.png
     :width: 40%
 
 - Carry out the FIPT measurement and determine the ionic resistance of your electrode
 - Note that a good graph looks like a hockey stick .
 
-.. image:: images/fipt_put_clamp.jpg
+.. image:: https://github.com/SarahBayach/fipt/blob/master/12.png
     :width: 40%
 
 
