@@ -19,9 +19,9 @@ Checklist : Gloves, googles, ethanol, wipe, FIPT cell ( composed by the support,
 -	Clean the cutting tool with the brush, be careful of the blades.
 
 
-.. image:: 1.png
+.. image:: https://github.com/SarahBayach/fipt/blob/master/1.png
   :width: 45%
-  :alt: 1.png
+  
 
 
 
@@ -32,7 +32,7 @@ Checklist : Ethanol, wipe, FIPT cell and your electrode.
 - Clean the label on the cell wih ethanol
 - Write the new label of the electrode and precise the side that you want to measure.
 
-.. |cut separator| image:: https://github.com/SarahBayach/fipt/blob/master/2.png
+.. image:: https://github.com/SarahBayach/fipt/blob/master/2.png
     :width: 45%
    
     
@@ -52,7 +52,7 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
 - Repeat the cutting for two strips total
 
 
-.. |cut separator| image:: https://github.com/SarahBayach/fipt/blob/master/3.png
+..  image:: https://github.com/SarahBayach/fipt/blob/master/3.png
     :width: 45%
   
 
@@ -62,10 +62,11 @@ Checklist : FIPT cell ( composed by the support, the base, the top and the clamp
 
 - Place the first strip orthogonal to the foam of the FIPT cell. Face up the side that you measure. 
 Be careful on the orientation of the FIPT cell. 
+
 -  Place one separator on the middle of the electrode strip in the FIPT cell gap. 
 
 
-.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/4.png
+..  image:: https://github.com/SarahBayach/fipt/blob/master/4.png
     :width: 45%
     
 
@@ -73,19 +74,19 @@ Be careful to put only one separator and to place it correctly in the relevant r
 - Apply 300ul of electrolyte on the separator
 
 
-.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/5.png
+.. image:: https://github.com/SarahBayach/fipt/blob/master/5.png
     :width: 45%
     
    
 -	Place the second strip on the top of the separator, orthogonal to the first strip. Face down the side that you measure.
 
-.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/6.png
+.. image:: https://github.com/SarahBayach/fipt/blob/master/6.png
     :width: 45%
     
  
 - Close the cell by adding the top
     
-.. |cut sample| image:: https://github.com/SarahBayach/fipt/blob/master/7.png
+.. image:: https://github.com/SarahBayach/fipt/blob/master/7.png
     :width: 45%
     
  
