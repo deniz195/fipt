@@ -1,4 +1,4 @@
-Standard operation procedure
+STANDARD OPERATION PROCEDURE
 Measure the ionic resistance of your electrode with the FIPT kit
 ==================================
 
@@ -7,7 +7,7 @@ Measure the ionic resistance of your electrode with the FIPT kit
 
 .. warning:: The orientation marking on the FIPT cell have to be placed on the top left side
 
-1.	Clean the workstation 
+1.	**Clean the workstation**
 -------------------
 Checklist : Gloves, googles, ethanol, wipe, FIPT cell ( composed by the support, the base, the top and the clamp), brush, tweezer, cutting tool, pipette, pipette tips and your electrode.
 
@@ -19,9 +19,8 @@ Checklist : Gloves, googles, ethanol, wipe, FIPT cell ( composed by the support,
 -	Clean the cutting tool with the brush, be careful of the blades.
 
 
-.. |fipt workstation 01| image:: images/fipt_workstation_01.jpg
+.. image:: https://github.com/SarahBayach/fipt/blob/master/1.png
   :width: 45%
-  :alt: fipt workstation image 01
 
 .. |fipt workstation 02| image:: images/fipt_workstation_02.jpg
   :width: 45%
@@ -30,7 +29,7 @@ Checklist : Gloves, googles, ethanol, wipe, FIPT cell ( composed by the support,
 |fipt workstation 01| |fipt workstation 02|
 
 
-2.	Prepare the workstation
+2.	**Prepare the workstation**
 -------------
 Checklist : Ethanol, wipe, FIPT cell and your electrode.
 
@@ -45,7 +44,7 @@ Checklist : Ethanol, wipe, FIPT cell and your electrode.
 - Check drill clutch setting produces 0.4Nm
 
 
-3.	Cut the electrode 
+3.	**Cut the electrode** 
 -------------------
 Checklist : Cutting tool, tweezer and your electrode labeled.
 
@@ -61,7 +60,7 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
     :width: 45%
     :alt: cut separator
 
-4.	Assemble the FIPT cell
+4.	**Assemble the FIPT cell**
 ---------------
 Checklist : FIPT cell ( composed by the support, the base, the top and the clamp), tweezer, pipette, separator, electrolyte and 2 strips of electrode.
 
@@ -100,7 +99,7 @@ Be careful to put only one separator and to place it correctly in the relevant r
 
  
 
-5.	Run the measurement 
+5.	**Run the measurement** 
 ---------------------------
 
 Checklist : FIPT cell ( composed by the support, the base, the top and the clamp), tweezer, pipette, separator, electrolyte and 2 strips of electrode.
@@ -131,7 +130,7 @@ Checklist : FIPT cell ( composed by the support, the base, the top and the clamp
     :width: 40%
 
 
-6.	Analyze your data
+6.	**Analyze your data**
 --------------------------
 
 -To see how to analyze your FIPT data using our `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_ , watch our follow up video
