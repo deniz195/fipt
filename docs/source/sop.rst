@@ -49,7 +49,9 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
 - Press the blades down to cut out the electrode strip
 - Collect the electrode strip with the tweezer
 - Check the edges of the strip are clean after cutting
-- Pay attention to face the side that you will measure up
+
+**Pay attention to face the side that you will measure up**
+
 - Repeat the cutting for two strips total
 
 
@@ -61,8 +63,7 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
 ---------------
 Checklist : FIPT cell ( composed by the support, the base, the top and the clamp), tweezer, pipette, separator, electrolyte and 2 strips of electrode.
 
-- Place the first strip orthogonal to the foam of the FIPT cell. 
-Face up the side that you measure. 
+- Place the first strip orthogonal to the foam of the FIPT cell. Face up the side that you measure. 
 
 **Be careful on the orientation of the FIPT cell.**
 
@@ -130,15 +131,17 @@ Checklist : FIPT cell ( composed by the support, the base, the top and the clamp
 6.	**Analyze your data**
 --------------------------
 
--To see how to analyze your FIPT data using our `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_ , watch our follow up video
+To see how to analyze your FIPT data using our `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_ , watch our follow up video
 
 
 .. image:: images/fipt_test_data_003.csv.fit.plot.png
     :width: 100%
 
+VIDEO
+
 .. note:: To achieve reliable data, do a total of 3 measurements per sample
 
-VIDEO
+
 
 
 
