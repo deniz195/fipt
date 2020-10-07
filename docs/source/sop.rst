@@ -61,8 +61,10 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
 ---------------
 Checklist : FIPT cell ( composed by the support, the base, the top and the clamp), tweezer, pipette, separator, electrolyte and 2 strips of electrode.
 
-- Place the first strip orthogonal to the foam of the FIPT cell. Face up the side that you measure. 
-Be careful on the orientation of the FIPT cell. 
+- Place the first strip orthogonal to the foam of the FIPT cell. 
+Face up the side that you measure. 
+
+**Be careful on the orientation of the FIPT cell.**
 
 -  Place one separator on the middle of the electrode strip in the FIPT cell gap. 
 
@@ -71,7 +73,8 @@ Be careful on the orientation of the FIPT cell.
     :width: 45%
     
 
-Be careful to put only one separator and to place it correctly in the relevant region. 
+**Be careful, put only one separator and to place it correctly in the relevant region.**
+
 - Apply 300ul of electrolyte on the separator
 
 
@@ -79,7 +82,8 @@ Be careful to put only one separator and to place it correctly in the relevant r
     :width: 45%
     
    
--	Place the second strip on the top of the separator, orthogonal to the first strip. Face down the side that you measure.
+-	Place the second strip on the top of the separator, orthogonal to the first strip. 
+Face down the side that you measure.
 
 .. image:: https://github.com/SarahBayach/fipt/blob/master/6.png
     :width: 45%
@@ -95,6 +99,9 @@ Be careful to put only one separator and to place it correctly in the relevant r
 - Hook in plastic bar.
 -	Screw in the middle screw until the clutch of the drill triggers (Torque 0.4Nm).
 
+.. image:: https://github.com/SarahBayach/fipt/blob/master/9.png
+    :width: 40%
+
  
 
 5.	**Run the measurement** 
@@ -104,19 +111,11 @@ Checklist : FIPT cell ( composed by the support, the base, the top and the clamp
 
 - Attach 2 measurement wires to the strips of the electrode to connect the FIPT cell to an impedance analyzer
 
-
-.. image:: https://github.com/SarahBayach/fipt/blob/master/9.png
+.. image:: https://github.com/SarahBayach/fipt/blob/master/10.png
     :width: 40%
 
 
 -	Set up the measurement
-
-.. image:: https://github.com/SarahBayach/fipt/blob/master/10.png
-    :width: 40%
-
-- Carry out the FIPT measurement and determine the ionic resistance of your electrode
-- Note that a good graph looks like a hockey stick .
-
 
 .. image:: https://github.com/SarahBayach/fipt/blob/master/11.png
     :width: 40%
