@@ -25,6 +25,17 @@ Checklist : Gloves, googles, ethanol, wipe, FIPT cell, brush, tweezer, cutting t
 .. image:: images/sb/1.png
   :width: 45%
 
+Prepare separators
+-------------------
+If you have no separator pieces left, cut them in the following way:
+
+- Cut the circular separator material (up to 3 at a time) with the triangle ruler and yellow cutting tool into **21mm wide** stripes.
+- Cut the stripes into smaller pieces (21mm |times| 35mm).
+- Throw out stripes with exessive wrinkling or contamination.
+
+.. image:: images/fipt_cut_separator.jpg
+    :width: 45%
+
 
 Label FIPT cell
 ---------------
@@ -35,6 +46,9 @@ Label FIPT cell
     :width: 45%
 
 
+
+
+
 Cut the electrode
 -----------------
 Checklist : Cutting tool, tweezer and your electrode labeled.
@@ -42,7 +56,7 @@ Checklist : Cutting tool, tweezer and your electrode labeled.
 - Place the electrode on the cutting tool.
 - Press the blades down to cut out the electrode strip.
 - Collect the electrode strip with the tweezer.
-- Check the edges of the strip are clean after cutting.
+- Check the edges of the strip are clean after cutting. The electrode strip should be **20mm wide**.
 - Repeat the cutting for two strips total.
 
 .. note:: Keep track of which side of the electrode you want to measure!
