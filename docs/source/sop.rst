@@ -1,15 +1,15 @@
-Measuring ionic resistance
-==========================
+Measuring ionic resistance (aka SOP)
+====================================
 
 .. include:: <isonum.txt>
 .. See https://docutils.sourceforge.io/docs/ref/rst/definitions.html
 
 .. note:: This standard operating procedure (SOP) also exists in `video form <https://www.battrion.com/fipt>`_
 
-.. warning:: When handling electrolyte always wear goggles.
-
 Prepare the workstation
 -----------------------
+.. warning:: When handling electrolyte always wear goggles.
+
 Checklist : Gloves, googles, ethanol, wipe, FIPT cell, brush, tweezer, cutting tool, pipette, pipette tips and your electrode.
 
 - Clean the workstation with ethanol.
@@ -109,16 +109,18 @@ Run the measurement
 .. image:: images/sb/12.png
     :width: 40%
 
+.. note:: To achieve reliable data, do a total of 3 measurements per sample
 
 Analyze your data
 -----------------
 
-To see how to analyze your FIPT data using our `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_ , watch our follow up `video on our website <https://www.battrion.com/fipt>`_
+A typical data set looks like this:
 
 .. image:: images/fipt_test_data_003.csv.fit.plot.png
     :width: 100%
 
-.. note:: To achieve reliable data, do a total of 3 measurements per sample
+To see how to analyze your FIPT data using our `fipt-analysis <https://github.com/deniz195/fipt-analysis>`_ , watch our follow up `video on our website <https://www.battrion.com/fipt>`_
+
 
 
 
