@@ -26,7 +26,7 @@ Why?
 I'm sold. What do I need?
 =========================
 
-Here are the three main steps:
+If you want to get started quickly, you can order the complete `FIPT kit on our website <https://www.battrion.com/fipt/>`_. Otherwise you can build it yourself. Here are the three main steps:
 
 .. toctree::
    :maxdepth: 1
