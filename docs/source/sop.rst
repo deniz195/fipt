@@ -1,5 +1,5 @@
-Measuring ionic resistance (aka SOP)
-====================================
+Measure ionic resistance (aka SOP)
+==================================
 
 .. include:: <isonum.txt>
 .. See https://docutils.sourceforge.io/docs/ref/rst/definitions.html
