@@ -8,7 +8,7 @@ Measure ionic resistance (aka SOP)
 
 Prepare the workstation
 -----------------------
-.. warning:: When handling electrolyte always wear goggles.
+.. warning:: When handling electrolyte always wear goggles and work in a well ventilated space.
 
 Checklist : Gloves, googles, ethanol, wipe, FIPT cell, brush, tweezer, cutting tool, pipette, pipette tips and your electrode.
 
