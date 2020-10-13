@@ -36,7 +36,7 @@ Here are the three main steps:
 -	`Get the materials <https://fipt.readthedocs.io/en/latest/materials.html>`_
 -	`Measure ionic resistance (aka SOP) <https://fipt.readthedocs.io/en/latest/sop.html>`_
 
-You find more details in the `full documentation <https://readthedocs.org/projects/fipt/badge/?version=latest>`_
+You find more details in the `full documentation <https://fipt.readthedocs.io/>`_
 
 
 I got the data. What now?
