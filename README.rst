@@ -16,12 +16,9 @@ FIPT is a measurement technique that allows a fast determination of the ionic re
 
 This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
 
+For a quick introduction `check out our video. <https://youtu.be/r1cBf72wSwA>`_ 
+
 .. intro-end
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/r1cBf72wSwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Why?
 ====
