@@ -14,7 +14,12 @@ A fast way to get ionic resistance
 FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind (`DOI: 10.1149/issn.1945-7111 <https://dx.doi.org/10.1149/2.1141607jes>`_) and then optimized for execution speed and reliability at `Battrion <https://battrion.com>`_.
 
 This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
+
 .. intro-end
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/r1cBf72wSwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Why?
