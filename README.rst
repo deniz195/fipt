@@ -11,6 +11,7 @@ A fast way to get ionic resistance
 ==================================
 
 .. intro-begin
+
 FIPT is a measurement technique that allows a fast determination of the ionic resistance for battery electrodes. The technique is based on the work by J. Landesfeind (`DOI: 10.1149/issn.1945-7111 <https://dx.doi.org/10.1149/2.1141607jes>`_) and then optimized for execution speed and reliability at `Battrion <https://battrion.com>`_.
 
 This repository contains the information to build an FIPT setup, prepare the electrolyte and the standard operating procedure (SOP) to successfully execute a measurement.
@@ -23,12 +24,14 @@ This repository contains the information to build an FIPT setup, prepare the ele
 
 
 Why?
-===============
+====
 
 .. why-begin
+
 The ionic resistance (or the MacMullin number) is a key performance metric for any battery electrode. It describes how easily ions can move through the electrode during fast charging or heavy use of the battery. It is therefore important for all manufacturers to optimize the ionic resistance of their electrodes.
 
 Battrions Aligned Graphite Technology is a powerful way to reduce the ionic resistance by up to 50% through aligning graphite particles in an electrode.
+
 .. why-end
 
 
